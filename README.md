@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jgoebel775
-- 👀 I’m interested in on board software, microcontroller and simulation in space applications
-- 🌱 I’m currently learning C and cross compiling
+- 👀 I’m interested in on-board software, microcontrollers and hardware in the loop simulation in space applications
+- 🌱 I’m currently learning C 
 
 
 <!---
